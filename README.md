@@ -1,6 +1,5 @@
-# Serin
-UKK 12 2024/2025
+# Aplikasi Kalkulator Sederhana 
+Aplikasi ini dibuat untuk UKK RPL 2024/2025 pada tanggal 20 Februari 2025
 
-
-#cara penggunaan
+# cara penggunaan 
 eksekusi file index.html
